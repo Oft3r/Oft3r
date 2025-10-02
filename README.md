@@ -105,26 +105,6 @@
 
 ---
 
-## <span id="build">Build workflow</span>
-
-`mermaid
-flowchart LR
-  Discovery[1. Discovery] --> ExperienceMap[2. Experience Mapping]
-  ExperienceMap --> Prototype[3. Rapid Prototyping]
-  Prototype --> Build[4. Build & Automate]
-  Build --> Launch[5. Launch Playbook]
-  Launch --> Iterate[6. Iterate with Feedback]
-  Iterate --> Monitor[7. Monitor & Scale]
-`
-
-- Define product goals, users, and constraints with the team.
-- Map the experience, data flows, and integration touchpoints.
-- Prototype quickly, validate with stakeholders, and adjust scope.
-- Build with an automation-first mindset and instrument everything.
-- Launch, collect feedback, and iterate based on telemetry and user insight.
-
----
-
 ## <span id="toolkit">Toolkit</span>
 
 <div align="center">
@@ -139,27 +119,3 @@ flowchart LR
 
 > Add badges for frameworks such as Foundry, Hardhat, Dagger, or Supabase when they become part of your core stack.
 
----
-
-## <span id="faq">FAQ</span>
-
-**What support do you provide post-launch?**  
-Ongoing automation upkeep and feature iterations are available; specify expectations in the SOW.
-
-**Do you handle chains beyond Xian and EVM?**  
-Yes. List other ecosystems here (Bitcoin L2, Cosmos, Move, etc.) that you actively cover.
-
-**How do you manage credentials and secrets?**  
-Document your policy (Vault, secret scanning, rotation cadence) and the observability stack.
-
----
-
-## <span id="contact">Contact</span>
-
-- Reach out via [GitHub issues](https://github.com/Oft3r/Oft3r/issues) or replace with a preferred mailto link.
-- Add LinkedIn, Calendly, Discord, or any channel you monitor consistently.
-- For long term support, enable [GitHub Sponsors](https://github.com/sponsors/Oft3r) or list additional options on your portfolio.
-
-<p align="center">
-  <sub>Last updated <!-- update manually --> - Keep the story alive with regular commits.</sub>
-</p>
