@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Vista de panel de control</title>
+  <desc id="desc">Mockup abstracto para el dashboard principal</desc>
+  <defs>
+    <linearGradient id="dashGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    <linearGradient id="card" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0.85" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#dashGradient)" rx="32" />
+  <g fill="#1e293b" opacity="0.35">
+    <rect x="80" y="120" width="1040" height="488" rx="24" />
+    <rect x="80" y="120" width="1040" height="120" rx="18" />
+  </g>
+  <g fill="#0f172a" opacity="0.4">
+    <rect x="120" y="280" width="360" height="280" rx="18" />
+    <rect x="520" y="280" width="560" height="120" rx="18" />
+    <rect x="520" y="440" width="560" height="120" rx="18" />
+  </g>
+  <g>
+    <rect x="140" y="300" width="320" height="80" rx="14" fill="#082f49" opacity="0.9" />
+    <rect x="140" y="396" width="320" height="152" rx="14" fill="#082f49" opacity="0.7" />
+    <rect x="540" y="300" width="520" height="80" rx="14" fill="#082f49" opacity="0.9" />
+    <rect x="540" y="396" width="520" height="50" rx="14" fill="#082f49" opacity="0.7" />
+    <rect x="540" y="460" width="520" height="80" rx="14" fill="#082f49" opacity="0.5" />
+  </g>
+  <g>
+    <rect x="160" y="320" width="120" height="40" rx="20" fill="#1d4ed8" />
+    <rect x="300" y="320" width="120" height="40" rx="20" fill="#0ea5e9" />
+    <rect x="540" y="320" width="160" height="40" rx="12" fill="#1d4ed8" opacity="0.8" />
+    <rect x="720" y="320" width="200" height="40" rx="12" fill="#64748b" opacity="0.6" />
+  </g>
+  <g fill="#cbd5f5" font-family="'Inter', 'Segoe UI', sans-serif" text-anchor="middle">
+    <text x="600" y="80" font-size="54" font-weight="700">Mockup - Dashboard principal</text>
+    <text x="600" y="140" font-size="24" fill="#94a3b8">Reemplaza esta imagen por tu captura real</text>
+    <text x="320" y="520" font-size="32" font-weight="700" fill="url(#card)">Indicadores clave</text>
+  </g>
+  <rect x="880" y="240" width="240" height="56" rx="18" fill="url(#card)" opacity="0.85" />
+  <text x="1000" y="278" font-size="22" font-family="'Inter', 'Segoe UI', sans-serif" fill="#0f172a" text-anchor="middle">CTA o filtro</text>
+</svg>

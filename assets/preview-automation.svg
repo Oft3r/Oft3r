@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Automatizacion inteligente</title>
+  <desc id="desc">Mockup abstracto para un flujo de automatizacion</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+    <linearGradient id="node" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="36" fill="url(#bg)" />
+  <g stroke="#0ea5e9" stroke-width="2" stroke-opacity="0.6" fill="none">
+    <path d="M220 260 C320 260 300 360 380 360 S460 460 540 460" />
+    <path d="M540 460 C640 460 640 360 740 360" />
+    <path d="M740 360 C800 360 820 280 920 280" />
+  </g>
+  <g fill="#0f172a" opacity="0.5">
+    <rect x="200" y="220" width="220" height="120" rx="24" />
+    <rect x="360" y="340" width="220" height="120" rx="24" />
+    <rect x="520" y="420" width="220" height="120" rx="24" />
+    <rect x="700" y="320" width="220" height="120" rx="24" />
+    <rect x="880" y="240" width="220" height="120" rx="24" />
+  </g>
+  <g fill="#0f172a">
+    <rect x="216" y="232" width="188" height="96" rx="20" fill="#082f49" opacity="0.92" />
+    <rect x="376" y="352" width="188" height="96" rx="20" fill="#082f49" opacity="0.85" />
+    <rect x="536" y="432" width="188" height="96" rx="20" fill="#082f49" opacity="0.78" />
+    <rect x="716" y="332" width="188" height="96" rx="20" fill="#082f49" opacity="0.88" />
+    <rect x="896" y="252" width="188" height="96" rx="20" fill="#082f49" opacity="0.92" />
+  </g>
+  <g fill="#e0f2fe" font-family="'Inter', 'Segoe UI', sans-serif" text-anchor="middle">
+    <text x="600" y="92" font-size="52" font-weight="700">Mockup - Automatizacion</text>
+    <text x="600" y="144" font-size="24" fill="#bae6fd">Explica tus pipelines o workflows clave.</text>
+  </g>
+  <g fill="#0f172a" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="600">
+    <rect x="236" y="252" width="148" height="56" rx="16" fill="url(#node)" opacity="0.85" />
+    <rect x="396" y="372" width="148" height="56" rx="16" fill="url(#node)" opacity="0.75" />
+    <rect x="556" y="452" width="148" height="56" rx="16" fill="url(#node)" opacity="0.65" />
+    <rect x="736" y="352" width="148" height="56" rx="16" fill="url(#node)" opacity="0.78" />
+    <rect x="916" y="272" width="148" height="56" rx="16" fill="url(#node)" opacity="0.85" />
+    <text x="310" y="288" font-size="22">Trigger</text>
+    <text x="470" y="408" font-size="22">Procesa</text>
+    <text x="630" y="488" font-size="22">Valida</text>
+    <text x="810" y="388" font-size="22">Notifica</text>
+    <text x="990" y="308" font-size="22">Entrega</text>
+  </g>
+</svg>
