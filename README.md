@@ -10,9 +10,9 @@
 <h1 align="center">Elier / Oft3r - Web3 Builder and Automation Specialist</h1>
 
 <p align="center">
-  <a href="https://github.com/Oft3r?tab=followers"><img src="https://img.shields.io/github/followers/Oft3r?label=Followers&amp;style=for-the-badge" alt="GitHub followers" /></a>
+  <a href="https://github.com/Oft3r?tab=followers"><img src="https://img.shields.io/github/followers/Oft3r?label=Followers&style=for-the-badge" alt="GitHub followers" /></a>
   <a href="https://github.com/Oft3r?tab=repositories"><img src="https://img.shields.io/badge/Active%20repos-7-6366f1?style=for-the-badge" alt="Active repositories" /></a>
-  <a href="https://github.com/Oft3r?tab=stars"><img src="https://img.shields.io/github/stars/Oft3r?affiliations=OWNER%2CCOLLABORATOR&amp;style=for-the-badge&amp;color=38bdf8" alt="Total stars" /></a>
+  <a href="https://github.com/Oft3r?tab=stars"><img src="https://img.shields.io/github/stars/Oft3r?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=38bdf8" alt="Total stars" /></a>
   <a href="https://oft3r.github.io"><img src="https://img.shields.io/badge/Portfolio-in%20progress-14b8a6?style=for-the-badge" alt="Portfolio" /></a>
 </p>
 
@@ -27,14 +27,8 @@
     <li><a href="#impact">Impact signals</a></li>
     <li><a href="#metrics">Live metrics</a></li>
     <li><a href="#highlights">Auto highlights</a></li>
-    <li><a href="#visuals">Visual snapshots</a></li>
     <li><a href="#services">Services and engagement</a></li>
-    <li><a href="#build">Build workflow</a></li>
     <li><a href="#toolkit">Toolkit</a></li>
-    <li><a href="#roadmap">2025 roadmap</a></li>
-    <li><a href="#collab">Collaboration playbook</a></li>
-    <li><a href="#faq">FAQ</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -65,17 +59,17 @@
 ## <span id="metrics">Live metrics</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oft3r&amp;show_icons=true&amp;show=reviews&amp;hide_title=true&amp;hide_rank=true&amp;theme=tokyonight&amp;border_color=1f2937&amp;bg_color=111827&amp;text_color=E7E7E7&amp;title_color=38bdf8&amp;ring_color=38bdf8&amp;border_radius=20" alt="Oft3r overall stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oft3r&show_icons=true&show=reviews&hide_title=true&hide_rank=true&theme=tokyonight&border_color=1f2937&bg_color=111827&text_color=E7E7E7&title_color=38bdf8&ring_color=38bdf8&border_radius=20" alt="Oft3r overall stats" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oft3r&amp;hide_progress=false&amp;layout=donut&amp;theme=tokyonight&amp;border_color=1f2937&amp;bg_color=111827&amp;text_color=E7E7E7&amp;title_color=38bdf8&amp;border_radius=20" alt="Languages used by Oft3r" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oft3r&hide_progress=false&layout=donut&theme=tokyonight&border_color=1f2937&bg_color=111827&text_color=E7E7E7&title_color=38bdf8&border_radius=20" alt="Languages used by Oft3r" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Oft3r&amp;theme=tokyonight&amp;hide_border=true&amp;background=111827&amp;ring=38bdf8&amp;currStreakLabel=38bdf8" alt="Contribution streak for Oft3r" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Oft3r&theme=tokyonight&hide_border=true&background=111827&ring=38bdf8&currStreakLabel=38bdf8" alt="Contribution streak for Oft3r" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/Oft3r?chart=3dbar&amp;format=svg&amp;weeks=40&amp;theme=tokyo-night&amp;radius=8" alt="Recent contribution graph for Oft3r" width="700" />
+  <img src="https://ssr-contributions-svg.vercel.app/_/Oft3r?chart=3dbar&format=svg&weeks=40&theme=tokyo-night&radius=8" alt="Recent contribution graph for Oft3r" width="700" />
 </p>
 
 ---
@@ -83,13 +77,13 @@
 ## <span id="highlights">Auto highlights</span>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oft3r&amp;theme=tokyonight" alt="Profile summary card" width="700" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oft3r&theme=tokyonight" alt="Profile summary card" width="700" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oft3r&amp;theme=tokyonight" alt="Repositories by language" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oft3r&theme=tokyonight" alt="Repositories by language" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oft3r&amp;theme=tokyonight" alt="Most committed language" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oft3r&theme=tokyonight" alt="Most committed language" height="180" />
 </p>
 
 > Explore all public work directly on the [repositories tab](https://github.com/Oft3r?tab=repositories); the cards above update automatically.
@@ -118,4 +112,3 @@
 </div>
 
 > Add badges for frameworks such as Foundry, Hardhat, Dagger, or Supabase when they become part of your core stack.
-
