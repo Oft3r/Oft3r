@@ -24,7 +24,6 @@
   <summary><strong>Interactive tour</strong></summary>
   <ol>
     <li><a href="#value">Why teams choose me</a></li>
-
     <li><a href="#metrics">Live metrics</a></li>
     <li><a href="#highlights">Auto highlights</a></li>
     <li><a href="#services">Services and engagement</a></li>
@@ -46,15 +45,6 @@
 </div>
 
 ---
-
-
-
-
-
-
-
-
-
 
 ## <span id="metrics">Live metrics</span>
 
