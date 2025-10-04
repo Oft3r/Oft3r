@@ -24,7 +24,7 @@
   <summary><strong>Interactive tour</strong></summary>
   <ol>
     <li><a href="#value">Why teams choose me</a></li>
-    <li><a href="#impact">Impact signals</a></li>
+
     <li><a href="#metrics">Live metrics</a></li>
     <li><a href="#highlights">Auto highlights</a></li>
     <li><a href="#services">Services and engagement</a></li>
@@ -47,14 +47,14 @@
 
 ---
 
-## <span id="impact">Impact signals</span>
 
-- End-to-end launches: capture shipped products, on-chain automations, or dashboards in production.
-- Reliability metrics: document uptime improvements, incident response wins, or measurable quality gains.
-- Automation in production: share the bots and monitors that reduced manual time or enabled alerts.
-- Community presence: five public followers since 2021; add talks, newsletters, or mentoring if relevant.
 
----
+
+
+
+
+
+
 
 ## <span id="metrics">Live metrics</span>
 
