@@ -100,5 +100,3 @@
   <img src="https://img.shields.io/badge/CI-GitHub%20Actions-0e7490?logo=githubactions" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/AI-Ollama%20%2B%20LangChain-38bdf8" alt="AI tooling" />
 </div>
-
-> Add badges for frameworks such as Foundry, Hardhat, Dagger, or Supabase when they become part of your core stack.
