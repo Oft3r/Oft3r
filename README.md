@@ -82,7 +82,7 @@
 
 ## <span id="services">Services and engagement</span>
 
-1. Web3 product development sprints covering wallets, dashboards, and AI powered monitoring surfaces.
+1. Multi-platform Development: Sprints covering native Android apps, Desktop tools, and Web3 products (wallets, dashboards).
 2. Automation and monitoring: bots, pipelines, and observability tuned to your stack.
 3. Internal tooling: linters, automation, and bots that block regressions before deployment.
 4. Technical mentoring for teams entering Web3, design patterns, and production readiness.
