@@ -7,7 +7,7 @@
   <img src="./assets/hero-banner.svg" alt="Primary banner for Oft3r" width="100%" />
 </p>
 
-<h1 align="center">Elier / Oft3r - Web3 Builder and Automation Specialist</h1>
+<h1 align="center">Elier / Oft3r - Full-Stack Automation & App Developer</h1>
 
 <p align="center">
   <a href="https://github.com/Oft3r?tab=followers"><img src="https://img.shields.io/github/followers/Oft3r?label=Followers&style=for-the-badge" alt="GitHub followers" /></a>
@@ -16,7 +16,7 @@
   <a href="https://oft3r.github.io"><img src="https://img.shields.io/badge/Portfolio-in%20progress-14b8a6?style=for-the-badge" alt="Portfolio" /></a>
 </p>
 
-> Self-taught builder focused on on-chain automation, developer tooling, and clean Web3 user experiences.
+> Building efficient tools and applications across Mobile, Desktop, and Blockchain environments.
 
 ---
 
