@@ -46,24 +46,6 @@
 
 ---
 
-## <span id="metrics">Live metrics</span>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oft3r&show_icons=true&show=reviews&hide_title=true&hide_rank=true&theme=tokyonight&border_color=1f2937&bg_color=111827&text_color=E7E7E7&title_color=38bdf8&ring_color=38bdf8&border_radius=20" alt="Oft3r overall stats" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oft3r&hide_progress=false&layout=donut&theme=tokyonight&border_color=1f2937&bg_color=111827&text_color=E7E7E7&title_color=38bdf8&border_radius=20" alt="Languages used by Oft3r" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Oft3r&theme=tokyonight&hide_border=true&background=111827&ring=38bdf8&currStreakLabel=38bdf8" alt="Contribution streak for Oft3r" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/Oft3r?chart=3dbar&format=svg&weeks=40&theme=tokyo-night&radius=8" alt="Recent contribution graph for Oft3r" width="700" />
-</p>
-
----
-
 ## <span id="highlights">Auto highlights</span>
 
 <p align="center">
