@@ -37,9 +37,9 @@
   <table>
     <tr>
       <td><strong>On-chain products</strong><br/>Designing and shipping protocols, dapps, and integrations end to end.</td>
-      <td><strong>Data and AI</strong><br/>Automation for monitoring channels, chains, and contracts.</td>
-      <td><strong>Agile delivery</strong><br/>CI/CD guardrails and custom linters to shrink risk.</td>
-      <td><strong>Product craft</strong><br/>From native wallets to ChatOps interfaces for local models.</td>
+      <td><strong>Applied AI</strong><br/>Implementation of local LLMs, intelligent data analysis, and AI-driven automation.</td>
+      <td><strong>Linux Desktop Craft</strong><br/>Native GNOME Shell extensions and system-level utility development.</td>
+      <td><strong>Security & Tooling</strong><br/>From custom linters to security interfaces and CI/CD guardrails.</td>
     </tr>
   </table>
 </div>
@@ -78,6 +78,8 @@
   <img src="https://img.shields.io/badge/Backend-Python-0f172a?logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/Frontend-Next.js-1f2937?logo=next.js" alt="Next.js" />
   <img src="https://img.shields.io/badge/Mobile-Kotlin-312e81?logo=kotlin" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?logo=flutter" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Desktop-GNOME%20JS-f67e00?logo=gnome" alt="GNOME JS" />
   <img src="https://img.shields.io/badge/DevTools-VS%20Code%20Extensions-1e293b?logo=visualstudiocode" alt="VS Code Extensions" />
   <img src="https://img.shields.io/badge/CI-GitHub%20Actions-0e7490?logo=githubactions" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/AI-Ollama%20%2B%20LangChain-38bdf8" alt="AI tooling" />
