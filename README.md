@@ -1,86 +1,13 @@
-<!--
-  README built to position Elier (Oft3r) as a Web3 builder and automation specialist.
-  Update metrics, contact links, and visual assets with your production information before publishing.
--->
+<a href="https://oft3r.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oft3r/Oft3r/main/dark_mode.svg">
+    <img alt="Elier (Oft3r) - Full-Stack, Mobile & AI Engineer" src="https://raw.githubusercontent.com/Oft3r/Oft3r/main/light_mode.svg">
+  </picture>
+</a>
 
-<p align="center">
-  <img src="./assets/hero-banner.svg" alt="Primary banner for Oft3r" width="100%" />
-</p>
+<p align="left"><a href="https://oft3r.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oft3r/Oft3r/main/link_portfolio_dark.svg"><img alt="Portfolio" width="33.3%" src="https://raw.githubusercontent.com/Oft3r/Oft3r/main/link_portfolio_light.svg"></picture></a><a href="https://www.linkedin.com/in/eliedel-l-834405146/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oft3r/Oft3r/main/link_linkedin_dark.svg"><img alt="LinkedIn" width="33.3%" src="https://raw.githubusercontent.com/Oft3r/Oft3r/main/link_linkedin_light.svg"></picture></a><a href="mailto:criptoqba@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oft3r/Oft3r/main/link_email_dark.svg"><img alt="Email" width="33.3%" src="https://raw.githubusercontent.com/Oft3r/Oft3r/main/link_email_light.svg"></picture></a></p>
 
-<h1 align="center">Elier / Oft3r - Full-Stack Automation & App Developer</h1>
-
-<p align="center">
-  <a href="https://github.com/Oft3r?tab=followers"><img src="https://img.shields.io/github/followers/Oft3r?label=Followers&style=for-the-badge" alt="GitHub followers" /></a>
-  <a href="https://github.com/Oft3r?tab=repositories"><img src="https://img.shields.io/badge/Active%20repos-7-6366f1?style=for-the-badge" alt="Active repositories" /></a>
-  <a href="https://github.com/Oft3r?tab=stars"><img src="https://img.shields.io/github/stars/Oft3r?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=38bdf8" alt="Total stars" /></a>
-  <a href="https://oft3r.github.io"><img src="https://img.shields.io/badge/Portfolio-in%20progress-14b8a6?style=for-the-badge" alt="Portfolio" /></a>
-</p>
-
-> Building efficient tools and applications across Mobile, Desktop, and Blockchain environments.
-
----
-
-<details>
-  <summary><strong>Interactive tour</strong></summary>
-  <ol>
-    <li><a href="#value">Why teams choose me</a></li>
-    <li><a href="#metrics">Live metrics</a></li>
-    <li><a href="#highlights">Auto highlights</a></li>
-    <li><a href="#services">Services and engagement</a></li>
-    <li><a href="#toolkit">Toolkit</a></li>
-  </ol>
-</details>
-
-## <span id="value">Why teams choose me</span>
-
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>On-chain products</strong><br/>Designing and shipping protocols, dapps, and integrations end to end.</td>
-      <td><strong>Applied AI</strong><br/>Implementation of local LLMs, intelligent data analysis, and AI-driven automation.</td>
-      <td><strong>Linux Desktop Craft</strong><br/>Native GNOME Shell extensions and system-level utility development.</td>
-      <td><strong>Security & Tooling</strong><br/>From custom linters to security interfaces and CI/CD guardrails.</td>
-    </tr>
-  </table>
-</div>
-
----
-
-## <span id="highlights">Auto highlights</span>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oft3r&theme=tokyonight" alt="Profile summary card" width="700" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oft3r&theme=tokyonight" alt="Repositories by language" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oft3r&theme=tokyonight" alt="Most committed language" height="180" />
-</p>
-
-> Explore all public work directly on the [repositories tab](https://github.com/Oft3r?tab=repositories); the cards above update automatically.
-
----
-
-## <span id="services">Services and engagement</span>
-
-1. Multi-platform Development: Sprints covering native Android apps, Desktop tools, and Web3 products (wallets, dashboards).
-2. Automation and monitoring: bots, pipelines, and observability tuned to your stack.
-3. Internal tooling: linters, automation, and bots that block regressions before deployment.
-4. Technical mentoring for teams entering Web3, design patterns, and production readiness.
-
----
-
-## <span id="toolkit">Toolkit</span>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Solidity%20%2F%20Sway-Build-111827" alt="Solidity and Sway" />
-  <img src="https://img.shields.io/badge/Backend-Python-0f172a?logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/Frontend-Next.js-1f2937?logo=next.js" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Mobile-Kotlin-312e81?logo=kotlin" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?logo=flutter" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Desktop-GNOME%20JS-f67e00?logo=gnome" alt="GNOME JS" />
-  <img src="https://img.shields.io/badge/DevTools-VS%20Code%20Extensions-1e293b?logo=visualstudiocode" alt="VS Code Extensions" />
-  <img src="https://img.shields.io/badge/CI-GitHub%20Actions-0e7490?logo=githubactions" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/AI-Ollama%20%2B%20LangChain-38bdf8" alt="AI tooling" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oft3r/Oft3r/main/pacman_dark.svg">
+  <img alt="Pac-Man and Antigravity mascots eating my contribution graph" src="https://raw.githubusercontent.com/Oft3r/Oft3r/main/pacman_light.svg">
+</picture>
